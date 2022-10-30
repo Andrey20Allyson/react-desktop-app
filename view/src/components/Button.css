@@ -1,0 +1,12 @@
+.Button {
+    background-color: #383d5a;
+    border-color: #969696;
+    color: #ffffff;
+
+    font-size: 100%;
+
+    min-width: 20px;
+    height: 40px;
+
+    border-style: outset;
+}
